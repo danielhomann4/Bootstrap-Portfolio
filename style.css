@@ -4,10 +4,12 @@ body{
 
 h2{
     color: #ffffff; 
+    margin-top: 15px;
 }
 
 .contacts{
-    color: #ffffff;
+    color: #aaaaaa;
+    margin-top: 15px;
 }
 
 
@@ -22,16 +24,24 @@ h2{
 
 .nav-link{
     color: #ffffff;
+    margin-top: 15px;
 }
 
 .me{
-    color: #ffffff;
+    color: #aaaaaa;
 }
 
 .about{
-    color: #ffffff;
+    color: #aaaaaa;
+    background-color: #ffffff;
+    margin: 35px;
+    padding-bottom: 30px;
+    margin-right: 70px;
 }
 
+.img{
+    margin-left: 30px;
+}
 
 #line{
     text-align: center;
